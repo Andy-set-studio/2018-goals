@@ -1,2 +1,11 @@
-# 2018-goals
-My goals for 2018 in a repo for accountability and for me to keep an account of what I've acheived 
+# My 2018 goals
+I want 2018 to be a good year, so I'm setting some goals and keeping track of them. I think making this public will put a bit of pressure on me to get things done too 🚀.
+
+Each item has an issue attached for more info and a log of what's been achieved so far. Hopefully in December 2018, I can write a post about how I've succeeded in all the below points 🙂.
+
+## The goals
+- [ ] Write at least 20 articles (#1)
+- [ ] Speak at a conference or meetup (#2)
+- [ ] Feature in at least 1 podcast as a guest (#3)
+- [ ] Get my weight to 13.5 stone (86kg) and maintain it (#4) 
+- [ ] Make at least 5 meaningful contributions to the web community (#5)
