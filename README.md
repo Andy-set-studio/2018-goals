@@ -8,4 +8,4 @@ Each item has an issue attached for more info and a log of what's been achieved 
 - [x] Speak at at-least one conference or meetup ([#2](https://github.com/hankchizljaw/2018-goals/issues/2))
 - [x] Feature in at-least 1 podcast as a guest ([#3](https://github.com/hankchizljaw/2018-goals/issues/3))
 - [ ] Get my weight to 13.5 stone (86kg) and maintain it ([#4](https://github.com/hankchizljaw/2018-goals/issues/4)) 
-- [ ] Make at-least 5 meaningful contributions to the web community ([#5](https://github.com/hankchizljaw/2018-goals/issues/5))
+- [x] Make at-least 5 meaningful contributions to the web community ([#5](https://github.com/hankchizljaw/2018-goals/issues/5))
